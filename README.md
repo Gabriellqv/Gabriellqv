@@ -2,7 +2,7 @@
 
 - 💻 Cursando Ciência de Computação na Uninove 
 - 📖 Estudando Python, Java e C#
-- 📫 Fale comigo através do e-mail:
+- 📫 Fale comigo através do e-mail: gabriellqv@gmail.com
 
 <div>
   <a href="https://github.com/gabriellqv">
