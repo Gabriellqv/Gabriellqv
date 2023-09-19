@@ -1,7 +1,7 @@
 ### Olá! Eu sou Gabriel
 
 - 💻 Cursando Ciência de Computação na Uninove 
-- 📖 Estudando html, css, javascript, python.
+- 📖 Estudando html, css, javascript, python, java, c#.
 - 📫 Fale comigo através do e-mail: gabriellqv@gmail.com
 
 
