@@ -1,26 +1,43 @@
-# Hello World!, I'm Gabriel, a Full-Stack Developer.
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriellqv&theme=city_lights&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriellqv&theme=city_lights&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</div>
+# Gabriel Queiroz
+Full Stack Developer focused on scalable web applications and clean architecture.
+
+## 🚀 Tech Stack
+
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/html5/d7d7e0"><img src="https://cdn.simpleicons.org/html5/0f0f12" width="26"></picture>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/css/d7d7e0"><img src="https://cdn.simpleicons.org/css/0f0f12" width="26"></picture>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/javascript/d7d7e0"><img src="https://cdn.simpleicons.org/javascript/0f0f12" width="26"></picture>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/typescript/d7d7e0"><img src="https://cdn.simpleicons.org/typescript/0f0f12" width="26"></picture>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/d7d7e0"><img src="https://cdn.simpleicons.org/react/0f0f12" width="26"></picture>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/d7d7e0"><img src="https://cdn.simpleicons.org/nextdotjs/0f0f12" width="26"></picture>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nodedotjs/d7d7e0"><img src="https://cdn.simpleicons.org/nodedotjs/0f0f12" width="26"></picture>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/postgresql/d7d7e0"><img src="https://cdn.simpleicons.org/postgresql/0f0f12" width="26"></picture>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/docker/d7d7e0"><img src="https://cdn.simpleicons.org/docker/0f0f12" width="26"></picture>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/git/d7d7e0"><img src="https://cdn.simpleicons.org/git/0f0f12" width="26"></picture>
+</p>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriellqv/) 
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriellqv@gmail.com)
+## 📫 Contact
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<p>
+<a href="https://linkedin.com/in/gabriellqv" target="_blank">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/uil:linkedin.svg?color=%23d7d7e0">
+<img src="https://api.iconify.design/uil:linkedin.svg?color=%230f0f12" width="22" alt="LinkedIn">
+</picture>
+</a>
+
+<a href="mailto:gabriellqv@gmail.com" style="text-decoration: none;">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/d7d7e0">
+<img src="https://cdn.simpleicons.org/gmail/0f0f12" width="22" alt="Email">
+</picture>
+</a>
+
+<a href="https://github.com/Gabriellqv" target="_blank" style="text-decoration: none;">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/d7d7e0">
+<img src="https://cdn.simpleicons.org/github/0f0f12" width="22" alt="GitHub">
+</picture>
+</a>
+</p>
