@@ -19,25 +19,8 @@ Full Stack Developer focused on scalable web applications and clean architecture
 
 ## 📫 Contact
 
-<p>
-<a href="https://linkedin.com/in/gabriellqv" target="_blank">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/uil:linkedin.svg?color=%23d7d7e0">
-<img src="https://api.iconify.design/uil:linkedin.svg?color=%230f0f12" width="22" alt="LinkedIn">
-</picture>
-</a>
-
-<a href="mailto:gabriellqv@gmail.com" style="text-decoration: none;">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/d7d7e0">
-<img src="https://cdn.simpleicons.org/gmail/0f0f12" width="22" alt="Email">
-</picture>
-</a>
-
-<a href="https://github.com/Gabriellqv" target="_blank" style="text-decoration: none;">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/d7d7e0">
-<img src="https://cdn.simpleicons.org/github/0f0f12" width="22" alt="GitHub">
-</picture>
-</a>
+<p align="left">
+  <a href="https://linkedin.com/in/gabriellqv" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/uil:linkedin.svg?color=%23d7d7e0"><img src="https://api.iconify.design/uil:linkedin.svg?color=%230f0f12" width="22" alt="LinkedIn"></picture></a>&nbsp;&nbsp;
+  <a href="mailto:gabriellqv@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/d7d7e0"><img src="https://cdn.simpleicons.org/gmail/0f0f12" width="22" alt="Email"></picture></a>&nbsp;&nbsp;
+  <a href="https://github.com/Gabriellqv" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/d7d7e0"><img src="https://cdn.simpleicons.org/github/0f0f12" width="22" alt="GitHub"></picture></a>
 </p>
