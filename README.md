@@ -2,7 +2,6 @@
 Full Stack Developer focused on scalable web applications and clean architecture.
 
 ## 🚀 Tech Stack
-
 <p>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/html5/d7d7e0"><img src="https://cdn.simpleicons.org/html5/0f0f12" width="26"></picture>&nbsp;
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/css/d7d7e0"><img src="https://cdn.simpleicons.org/css/0f0f12" width="26"></picture>&nbsp;
@@ -15,7 +14,21 @@ Full Stack Developer focused on scalable web applications and clean architecture
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/docker/d7d7e0"><img src="https://cdn.simpleicons.org/docker/0f0f12" width="26"></picture>&nbsp;
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/git/d7d7e0"><img src="https://cdn.simpleicons.org/git/0f0f12" width="26"></picture>
 </p>
-
+<p align="left">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=gabriellqv&theme=light" 
+      />
+      <img 
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=gabriellqv&theme=dark" 
+        width="30%" 
+        alt="Top Languages"
+      />
+    </picture>
+  </a>
+</p>
 
 ## 📫 Contact
 
