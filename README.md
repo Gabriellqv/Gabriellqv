@@ -19,7 +19,7 @@ Full Stack Developer focused on scalable web applications and clean architecture
     <picture>
       <source 
         media="(prefers-color-scheme: dark)" 
-        srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=gabriellqv&theme=light" 
+        srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=gabriellqv&theme=graywhite" 
       />
       <img 
         src="https://github-stats-extended.vercel.app/api/top-langs/?username=gabriellqv&theme=dark" 
