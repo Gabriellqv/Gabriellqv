@@ -53,9 +53,9 @@ aplicando arquitetura em camadas, SOLID, testes automatizados e CI/CD.
     <td width="50%" valign="top">
       <h3><a href="https://gabriellqv.vercel.app">Portfolio</a></h3>
       <p>
-        <code>Next.js 16</code> <code>React 19</code> <code>TypeScript</code> <code>Tailwind CSS 4</code>
+        <code>Next.js 16</code> <code>React 19</code> <code>TypeScript</code> <code>Tailwind CSS 4</code> <code>Vitest</code>
       </p>
-      <p>Site pessoal com SSR, Canvas API a 60fps, i18n PT/EN, validação Zod e rate limiting.</p>
+      <p>Site pessoal com arquitetura App Router, pipeline CI/CD, i18n nativo (PT/EN), dark mode e testes automatizados.</p>
       <p><a href="https://gabriellqv.vercel.app">Live</a> · <a href="https://github.com/gabriellqv/portfolio">Código</a></p>
     </td>
   </tr>
