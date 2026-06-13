@@ -1,22 +1,27 @@
 <h1 align="center">Gabriel Queiroz</h1>
 
-<p align="center">Desenvolvedor Full Stack · Laravel · Vue.js · React · Next.js · NestJS · TypeScript</p>
+<p align="center">
+  Desenvolvedor Full Stack · Laravel · NestJS · Next.js · Vue.js · TypeScript
+</p>
 
 <p align="center">
-  <a href="https://gabriellqv.vercel.app">portfolio</a> · 
-  <a href="https://linkedin.com/in/gabriellqv">linkedin</a> · 
-  <a href="mailto:gabriellqv@gmail.com">email</a>
+  <a href="https://gabriellqv.vercel.app">Portfolio</a> · 
+  <a href="https://linkedin.com/in/gabriellqv">LinkedIn</a> · 
+  <a href="mailto:gabriellqv@gmail.com">Email</a>
 </p>
 
 ---
 
-Bacharel em Ciência da Computação. Construo sistemas full stack com TypeScript e PHP,
-aplicando arquitetura em camadas, SOLID, testes automatizados e CI/CD.
+<p align="center">
+  <strong>Transformando regras de negócio complexas em sistemas escaláveis, performáticos e testáveis.</strong>
+</p>
 
-**Frontend:** Vue.js 3 · React 19 · Next.js 16 · TypeScript · Tailwind CSS 4  
-**Backend:** Laravel 13 · PHP · NestJS 11 · Node.js · Express · APIs REST · JWT  
-**Banco de Dados:** MySQL 8 · PostgreSQL 16 · MongoDB · Prisma ORM · Redis  
-**DevOps & Testes:** Docker · GitHub Actions · Pest PHP · Vitest · Jest · Git
+Bacharel em Ciência da Computação e pós-graduando em **Engenharia de Software (PUC Minas)**. Construo aplicações Full Stack resilientes utilizando ecossistemas PHP e Node.js/TypeScript. Meu foco principal está na qualidade e sustentabilidade do software, aplicando **arquitetura em camadas (Service Layer), princípios SOLID, testes automatizados (Pest/Vitest/Jest)** e fluxos de CI/CD.
+
+* **Frontend:** Vue.js 3 · React 19 · Next.js 16 · TypeScript · Tailwind CSS 4 · Zustand · Pinia
+* **Backend:** Laravel 13 · NestJS 11 · Node.js · Express · APIs REST · JWT / Sanctum
+* **Banco de Dados:** PostgreSQL 16 · MySQL 8 · Prisma ORM · Eloquent · Redis (Cache & Invalidations)
+* **DevOps & Engenharia:** Docker · GitHub Actions (CI/CD) · Git Flow · Transações ACID · RBAC
 
 ---
 
@@ -29,34 +34,34 @@ aplicando arquitetura em camadas, SOLID, testes automatizados e CI/CD.
       <p>
         <code>Laravel 13</code> <code>Vue.js 3</code> <code>MySQL</code> <code>Docker</code> <code>Pest PHP</code>
       </p>
-      <p>Plataforma de telemetria hídrica com mapa interativo, simulador IoT, alertas automáticos e API documentada.</p>
-      <p><a href="https://hydrotrack-telemetry.vercel.app">Live</a> · <a href="https://github.com/gabriellqv/hydrotrack">Código</a></p>
+      <p>Plataforma de telemetria hídrica em tempo real com mapa interativo. Inclui simulador IoT, alertas automáticos e API documentada para ingestão de dados M2M.</p>
+      <p><a href="https://hydrotrack-telemetry.vercel.app">Live Demo</a> · <a href="https://github.com/gabriellqv/hydrotrack">Código Fonte</a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://flowerp-dashboard.vercel.app">FlowERP</a></h3>
       <p>
-        <code>Laravel 13</code> <code>Vue.js 3</code> <code>MySQL</code> <code>Docker</code> <code>DomPDF</code>
+        <code>Laravel 13</code> <code>Vue.js 3</code> <code>MySQL</code> <code>Docker</code> <code>Pest (116 Testes)</code>
       </p>
-      <p>ERP empresarial com módulos de Estoque, Vendas, Financeiro e Dashboard. Transações ACID e RBAC com 4 níveis.</p>
-      <p><a href="https://flowerp-dashboard.vercel.app">Live</a> · <a href="https://github.com/gabriellqv/flowerp">Código</a></p>
+      <p>ERP corporativo abrangendo Estoque, Vendas e Financeiro. Destaca-se pelo uso de transações ACID com pessimistic locking e RBAC granular (4 níveis).</p>
+      <p><a href="https://flowerp-dashboard.vercel.app">Live Demo</a> · <a href="https://github.com/gabriellqv/flowerp">Código Fonte</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://stocksnap-dashboard.vercel.app">StockSnap</a></h3>
       <p>
-        <code>NestJS 11</code> <code>Next.js 16</code> <code>PostgreSQL</code> <code>Redis</code> <code>Docker</code>
+        <code>NestJS 11</code> <code>Next.js 16</code> <code>PostgreSQL</code> <code>Redis</code> <code>Prisma</code>
       </p>
-      <p>Controle de estoque com RBAC, cache Redis, transações atômicas e 12 suítes de testes. Auditado 8.8/10.</p>
-      <p><a href="https://stocksnap-dashboard.vercel.app">Live</a> · <a href="https://github.com/gabriellqv/stocksnap">Código</a></p>
+      <p>Controle de estoque robusto com cache Redis (invalidação event-driven), rate limiting, arquitetura modular e +12 suítes de testes (auditado 8.8/10).</p>
+      <p><a href="https://stocksnap-dashboard.vercel.app">Live Demo</a> · <a href="https://github.com/gabriellqv/stocksnap">Código Fonte</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://gabriellqv.vercel.app">Portfolio</a></h3>
+      <h3><a href="https://gabriellqv.vercel.app">Portfolio Pessoal</a></h3>
       <p>
-        <code>Next.js 16</code> <code>React 19</code> <code>TypeScript</code> <code>Tailwind CSS 4</code> <code>Vitest</code>
+        <code>Next.js 16</code> <code>React 19</code> <code>TypeScript</code> <code>Tailwind 4</code> <code>Vitest</code>
       </p>
-      <p>Site pessoal com arquitetura App Router, pipeline CI/CD, i18n nativo (PT/EN), dark mode e testes automatizados.</p>
-      <p><a href="https://gabriellqv.vercel.app">Live</a> · <a href="https://github.com/gabriellqv/portfolio">Código</a></p>
+      <p>Desenvolvido com App Router, alcançando Lighthouse 100. Possui CI/CD automatizado, i18n nativo (PT/EN), temas dinâmicos e testes de componentes (RTL).</p>
+      <p><a href="https://gabriellqv.vercel.app">Live Demo</a> · <a href="https://github.com/gabriellqv/portfolio">Código Fonte</a></p>
     </td>
   </tr>
 </table>
