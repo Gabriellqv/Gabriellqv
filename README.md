@@ -12,10 +12,6 @@
 
 ---
 
-<p align="center">
-  <strong>Transformando regras de negócio complexas em sistemas escaláveis, performáticos e testáveis.</strong>
-</p>
-
 Bacharel em Ciência da Computação e pós-graduando em **Engenharia de Software (PUC Minas)**. Construo aplicações Full Stack resilientes utilizando ecossistemas PHP e Node.js/TypeScript. Meu foco principal está na qualidade e sustentabilidade do software, aplicando **arquitetura em camadas (Service Layer), princípios SOLID, testes automatizados (Pest/Vitest/Jest)** e fluxos de CI/CD.
 
 * **Frontend:** Vue.js 3 · React 19 · Next.js 16 · TypeScript · Tailwind CSS 4 · Zustand · Pinia
