@@ -26,14 +26,6 @@ Bacharel em Ciência da Computação e pós-graduando em **Engenharia de Softwar
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://hydrotrack-telemetry.vercel.app">HydroTrack</a></h3>
-      <p>
-        <code>Laravel 13</code> <code>Vue.js 3</code> <code>MySQL</code> <code>Docker</code> <code>Pest PHP</code>
-      </p>
-      <p>Plataforma de telemetria hídrica em tempo real com mapa interativo. Inclui simulador IoT, alertas automáticos e API documentada para ingestão de dados M2M.</p>
-      <p><a href="https://hydrotrack-telemetry.vercel.app">Live Demo</a> · <a href="https://github.com/gabriellqv/hydrotrack">Código Fonte</a></p>
-    </td>
-    <td width="50%" valign="top">
       <h3><a href="https://flowerp-dashboard.vercel.app">FlowERP</a></h3>
       <p>
         <code>Laravel 13</code> <code>Vue.js 3</code> <code>MySQL</code> <code>Docker</code> <code>Pest (116 Testes)</code>
@@ -41,8 +33,6 @@ Bacharel em Ciência da Computação e pós-graduando em **Engenharia de Softwar
       <p>ERP corporativo abrangendo Estoque, Vendas e Financeiro. Destaca-se pelo uso de transações ACID com pessimistic locking e RBAC granular (4 níveis).</p>
       <p><a href="https://flowerp-dashboard.vercel.app">Live Demo</a> · <a href="https://github.com/gabriellqv/flowerp">Código Fonte</a></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://stocksnap-dashboard.vercel.app">StockSnap</a></h3>
       <p>
@@ -51,13 +41,23 @@ Bacharel em Ciência da Computação e pós-graduando em **Engenharia de Softwar
       <p>Controle de estoque robusto com cache Redis (invalidação event-driven), rate limiting, arquitetura modular e +12 suítes de testes (auditado 8.8/10).</p>
       <p><a href="https://stocksnap-dashboard.vercel.app">Live Demo</a> · <a href="https://github.com/gabriellqv/stocksnap">Código Fonte</a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://gabriellqv.vercel.app">Portfolio Pessoal</a></h3>
+      <h3><a href="https://github.com/gabriellqv/fluxpay">Flux Pay</a></h3>
       <p>
-        <code>Next.js 16</code> <code>React 19</code> <code>TypeScript</code> <code>Tailwind 4</code> <code>Vitest</code>
+        <code>Express 5</code> <code>Node.js 22</code> <code>PostgreSQL</code> <code>Prisma 7</code> <code>Vitest</code>
       </p>
-      <p>Desenvolvido com App Router, alcançando Lighthouse 100. Possui CI/CD automatizado, i18n nativo (PT/EN), temas dinâmicos e testes de componentes (RTL).</p>
-      <p><a href="https://gabriellqv.vercel.app">Live Demo</a> · <a href="https://github.com/gabriellqv/portfolio">Código Fonte</a></p>
+      <p>API RESTful de carteira digital e transferências financeiras. Inclui transações atômicas ($transaction), autenticação JWT, rate limiting, Zod e documentação Swagger UI.</p>
+      <p><a href="https://github.com/gabriellqv/fluxpay">Código Fonte</a> · <a href="https://github.com/gabriellqv/fluxpay#readme">Documentação</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://hydrotrack-telemetry.vercel.app">HydroTrack</a></h3>
+      <p>
+        <code>Laravel 13</code> <code>Vue.js 3</code> <code>MySQL</code> <code>Docker</code> <code>Pest PHP</code>
+      </p>
+      <p>Plataforma de telemetria hídrica em tempo real com mapa interativo. Inclui simulador IoT, alertas automáticos e API documentada para ingestão de dados M2M.</p>
+      <p><a href="https://hydrotrack-telemetry.vercel.app">Live Demo</a> · <a href="https://github.com/gabriellqv/hydrotrack">Código Fonte</a></p>
     </td>
   </tr>
 </table>
